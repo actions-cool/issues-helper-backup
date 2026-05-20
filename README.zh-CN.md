@@ -31,7 +31,7 @@
 
 如果你还愿意使用，可临时使用本仓库，本仓库不再提供 release 和 tag。
 
-请使用 commit。
+请使用 commit。例如：`uses: actions-cool/issues-helper-backup@d65454423c6fbbd20026b9b499d403f79422ac69`
 
 ## 🔗 链接
 

@@ -31,7 +31,7 @@ We apologize for this situation. The original [repository](https://github.com/ac
 
 If you still wish to use it, you can temporarily use this repository. This repository will no longer provide releases or tags.
 
-Please use `commit`.
+Please use `commit`. Like: `uses: actions-cool/issues-helper-backup@d65454423c6fbbd20026b9b499d403f79422ac69`
 
 ## 🔗 Link
 
